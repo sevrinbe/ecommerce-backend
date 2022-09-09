@@ -192,6 +192,7 @@ dist
 # Ignore all local history of files
 .history
 .ionide
+.DS-Store
 
 # Support for Project snippet scope
 .vscode/*.code-snippets
