@@ -5,7 +5,7 @@
   
   The project is designed to demonstrate CRUD operations using an API tool like Insomnia or Postman. A user can get, put, post, or destroy by ID or a by a whole table.
   
-  ## Table of Contents (Optional)
+  ## Table of Contents
     
   - [Installation](#installation)
   - [Usage](#usage)
